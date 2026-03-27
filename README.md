@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Machine learning & AI<br>🎲 Fun fact: Love music</p>
+<p align="left">📚 I'm currently learning Software Engineer at FIAP and Machine learning & AI<br>🎲 Fun fact: Love music</p>
 
 ###
 
